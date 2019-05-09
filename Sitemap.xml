@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+		<lastmod>2019-05-09</lastmod>
+		<sitemap>
+	<loc>https://rabota.ua</loc>
+		</sitemap>
+	
+		<sitemap>
+	<loc>https://rabota.ua/main</loc>
+			<priority>1</priority>
+		</sitemap>
+		
+		<sitemap>
+	<loc>https://rabota.ua/about us</loc>
+			<priority>0.5</priority>
+		</sitemap>
+		
+		<sitemap>
+	<loc>https://rabota.ua/contacts</loc>
+			<priority>0.8</priority>
+		</sitemap>
+		
+		<sitemap>
+	<loc>https://rabota.ua/about company</loc>
+			<priority>0.6</priority>
+		</sitemap>
+		
+		</sitemapindex>
+	

@@ -1,0 +1,9 @@
+User-agent:*
+Disallow:/contacs.html
+Disallow:/my-site/page-1.html
+
+User-agent: Google
+
+Allow:/my-site/company.html
+
+
